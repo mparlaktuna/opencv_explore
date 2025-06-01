@@ -4,7 +4,7 @@ using namespace cv;
 
 int main(void) {
   // Read image in GrayScale mode
-  Mat image = imread("boy.jpg",0);
+  Mat image = imread("../boy.jpg",0);
 
   // Save grayscale image
   imwrite("boyGray.jpg",image);
