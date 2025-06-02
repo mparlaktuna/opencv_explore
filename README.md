@@ -3,4 +3,4 @@ Exploring opencv functionality and details with c++
 
 # installation
 
-sudo apt install libopencv-dev
+sudo apt install libopencv-dev libfmt-dev libboost1.83-all-dev
